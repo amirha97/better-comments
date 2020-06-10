@@ -1,12 +1,12 @@
 {
-    "name": "better-comments",
-    "displayName": "Better Comments",
+    "name": "better-comments-2",
+    "displayName": "Better Comments (with ELPS support)",
     "icon": "icon.png",
     "description": "Improve your code commenting by annotating with alert, informational, TODOs, and more!",
-    "version": "2.0.5",
-    "publisher": "aaron-bond",
+    "version": "2.1.0",
+    "publisher": "amirHA",
     "author": {
-        "name": "Aaron Bond"
+        "name": "Amirhossein Andohkosh"
     },
     "homepage": "https://github.com/aaron-bond/better-comments/blob/master/README.md",
     "license": "SEE LICENSE IN LICENSE.md",
@@ -42,6 +42,7 @@
         "onLanguage:dockerfile",
         "onLanguage:elixir",
         "onLanguage:elm",
+        "onLanguage:elps",
         "onLanguage:erlang",
         "onLanguage:flax",
         "onLanguage:fsharp",

@@ -1,5 +1,9 @@
 # Change Log
 
+## [2.1.0] (2020-06-10)
+### Features
+* Add ELPS support
+
 ## [2.0.5] (2019-05-15)
 ### Features
 * Adding Markdown support ([54e51fb](https://github.com/aaron-bond/better-comments/commit/54e51fb)), closes [#91](https://github.com/aaron-bond/better-comments/issues/91)
@@ -83,7 +87,7 @@
 ### Features
 * Adding new property for tags: **backgroundColor** ([3e7a188](https://github.com/aaron-bond/better-comments/commit/3e7a188)), closes [#66](https://github.com/aaron-bond/better-comments/issues/66)
 	-  default: `transparent`
-* Adding support for: PlainText ([27ff774](https://github.com/aaron-bond/better-comments/commit/27ff774)), closes [#39](https://github.com/aaron-bond/better-comments/issues/39)  
+* Adding support for: PlainText ([27ff774](https://github.com/aaron-bond/better-comments/commit/27ff774)), closes [#39](https://github.com/aaron-bond/better-comments/issues/39)
 	-  PlainText support must be turned on in the settings: `highlightPlainText`
 * Adding support for: Vue.js ([2b14d2e](https://github.com/aaron-bond/better-comments/commit/2b14d2e)), closes [#71](https://github.com/aaron-bond/better-comments/issues/71)
 * Adding support for: nim ([73a55f6](https://github.com/aaron-bond/better-comments/commit/73a55f6)), merges [#68](https://github.com/aaron-bond/better-comments/issues/68)
@@ -96,7 +100,7 @@
 
 ### Bug Fixes
 * Fixing support for SCSS ([2b3919f](https://github.com/aaron-bond/better-comments/commit/2b3919f)), closes [#60](https://github.com/aaron-bond/better-comments/issues/60)
-* Fixing Python to prevent first line of the file being detected as a comment,  
+* Fixing Python to prevent first line of the file being detected as a comment,
 ([438e0a6](https://github.com/aaron-bond/better-comments/commit/438e0a6)), closes [#61](https://github.com/aaron-bond/better-comments/issues/61)
 
 
